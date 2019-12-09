@@ -1,5 +1,7 @@
 #This is comment by user1
 #This is comment by user2
+#This is conflicting comment on line three by user1
+#This is conflicting comment on line four by user1
 def main():
 
     for i in range(1,1000):
